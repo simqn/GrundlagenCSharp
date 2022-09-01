@@ -1,18 +1,18 @@
 ﻿//Aufgabe 1
 
-Console.WriteLine(" .-. \n (o o) \n | O | \n |   | \n '~~~'");
+Console.WriteLine("  .-. \n (o o) \n | O | \n |   | \n '~~~'");
 
 //Aufgabe 2
 
-{ string vorname = "Simon" }
+string vorname = "Simon";
 
-{ string nachname = "Blümel" }
+string nachname = "Blümel";
 
-{ int alter = "17" }
+int alter = 17;
 
-Console.WriteLine (vorname)
+Console.WriteLine(vorname);
 
-Console.WriteLine (nachname)
+Console.WriteLine(nachname);
 
-Console.WriteLine (alter)
+Console.WriteLine(alter);
 
