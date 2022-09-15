@@ -1,4 +1,8 @@
-﻿//Aufgabe 1
+﻿//AusgabeEingabe
+
+
+
+//Aufgabe 1
 
 Console.WriteLine("  .-. \n (o o) \n | O | \n |   | \n '~~~'");
 
